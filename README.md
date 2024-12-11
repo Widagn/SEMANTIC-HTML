@@ -14,8 +14,7 @@ Latihan Praktikum 1 Semantic HTML
    -`index.html`
    -`styles.css`
 
-   Jangan lupa untuk mengatur rep![image](https://github.com/user-attachments/assets/c3317bae-79c3-48ab-b87e-8d06d853b17b)
-ository menjadi **Public** dan tambahkan dile `README.md`
+   Jangan lupa untuk mengatur repository menjadi **Public** dan tambahkan dile `README.md`
 
 
 3. **Submit Link Repository**
